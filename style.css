@@ -1,1 +1,8 @@
 /* style */
+.navBarDiv {
+  background-color: rgb(56, 62, 76);
+  color: rgb(249, 249, 249);
+}
+.container {
+  flex-direction: column;
+}

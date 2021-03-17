@@ -6,3 +6,6 @@
 .container {
   flex-direction: column;
 }
+ul li {
+  display: inline;
+}
